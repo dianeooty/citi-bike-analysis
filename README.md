@@ -25,7 +25,11 @@ My analysis can be found in the ipynb file titled Analysis.  You can access my T
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![1](https://user-images.githubusercontent.com/117790100/235537164-61566a06-dc0b-4811-8cae-90edf80d198c.png)
+![2](https://user-images.githubusercontent.com/117790100/235537168-27cf2bb9-31d5-461f-bd04-6717ae8a4161.png)
+![3](https://user-images.githubusercontent.com/117790100/235537170-ed9f3225-8155-448a-8482-e371c94b421d.png)
+![4](https://user-images.githubusercontent.com/117790100/235537171-c5c42d3e-f36c-455c-b40b-57cd0fbe8adc.png)
+![5](https://user-images.githubusercontent.com/117790100/235537178-569c5d48-d081-4325-baae-51b0a0ffc684.png))
 
 
 ## Setup
